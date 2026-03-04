@@ -1,0 +1,5 @@
+{
+  "name": "BountyHunter OS",
+  "description": "A comprehensive command center for bug bounty hunters featuring target tracking, payload libraries, and AI-powered vulnerability analysis.",
+  "requestFramePermissions": []
+}
